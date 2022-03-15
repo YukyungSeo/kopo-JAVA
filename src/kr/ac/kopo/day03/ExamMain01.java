@@ -1,4 +1,4 @@
-package kr.ac.kopo.day03.exam;
+package kr.ac.kopo.day03;
 
 public class ExamMain01 {
 	public static void main(String[] args) {
