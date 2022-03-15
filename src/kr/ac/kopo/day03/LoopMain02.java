@@ -1,7 +1,5 @@
 package kr.ac.kopo.day03;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
 /*
  * while(expr){
  * 		statement;

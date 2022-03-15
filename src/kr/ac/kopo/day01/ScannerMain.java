@@ -22,5 +22,7 @@ public class ScannerMain {
 		System.out.print("정수를 하나 입력하세요 : ");
 		int a = sc.nextInt();
 		System.out.println("a : " + a);
+		
+		sc.close();
 	}
 }

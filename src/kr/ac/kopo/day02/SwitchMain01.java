@@ -41,5 +41,7 @@ public class SwitchMain01 {
 		default:
 			System.out.println("ERROR");
 		}
+		
+		sc.close();
 	}
 }

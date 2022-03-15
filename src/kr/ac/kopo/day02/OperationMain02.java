@@ -32,5 +32,7 @@ public class OperationMain02 {
 		boolean result = b != 0 && a % b == 0;
 		
 		System.out.printf("%d가 %d의 배수인가? %b\n", a, b, result);
+		
+		sc.close();
 	}
 }

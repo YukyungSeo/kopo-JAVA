@@ -1,4 +1,4 @@
-package kr.ac.kopo.day03.homwork;
+package kr.ac.kopo.day03.homework;
 
 import java.util.Random;
 

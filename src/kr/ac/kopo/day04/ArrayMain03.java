@@ -1,7 +1,5 @@
 package kr.ac.kopo.day04;
 
-import java.util.Arrays;
-
 public class ArrayMain03 {
 	public static void main(String[] args) {
 
@@ -24,9 +22,10 @@ public class ArrayMain03 {
 			System.out.print(i + "\t");
 		}
 
-		/*
-		 * for (int i = 0; i < arr.length; i++) { System.out.print(arr[i] + "\t"); }
-		 * System.out.println();
-		 */
+//		for (int i = 0; i < arr.length; i++) {
+//			System.out.print(arr[i] + "\t");
+//		}
+//		System.out.println();
+
 	}
 }

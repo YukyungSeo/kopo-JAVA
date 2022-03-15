@@ -33,6 +33,6 @@ public class IFMain03 {
 			System.out.println("택시를 타고 학교에 간다");
 		}
 		
-		
+		sc.close();
 	}
 }
