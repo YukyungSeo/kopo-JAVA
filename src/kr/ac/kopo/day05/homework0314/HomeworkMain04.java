@@ -12,6 +12,7 @@ public class HomeworkMain04 {
 		for (int i = 0; i < nums.length;) {
 			System.out.print(i + 1 + "번째 정수 입력 : ");
 			nums[i] = sc.nextInt();
+			
 			if (i > 0 && nums[i] < nums[i - 1]) {
 				System.out.println(msg + "보다 큰수여야합니다");
 			} else {
