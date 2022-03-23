@@ -41,10 +41,10 @@ public class Menu {
 //	public void 설치(SamsungPrinter sam) {
 //		sam.print();
 //	}
-//	
-//	public void 설치(Printer printer) {
-//		printer.print();
-//	}
+	
+	public void 설치(Printer printer) {
+		printer.print();
+	}
 
 //	public void print(String type) {
 //		// 강제성을 이용해 표준화를 만든다.

@@ -13,8 +13,8 @@ public class UserMain {
 	public static void main(String[] args) {
 		
 		Menu menu = new Menu();
-		menu.process();
-//		menu.설치(new LGPrinter());
+//		menu.process();
+		menu.설치(new LGPrinter());
 	}
 	
 }
