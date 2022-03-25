@@ -19,7 +19,7 @@ public class ExceptionMain08 {
 
 	public static void main(String[] args) /* throws Exception */ {
 
-		@SuppressWarnings("resource")
+//		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 
 		try {
@@ -35,6 +35,8 @@ public class ExceptionMain08 {
 
 		} catch (Exception e) {
 			e.printStackTrace();
+		} finally {
+			sc.close();
 		}
 
 		System.out.println("next");
