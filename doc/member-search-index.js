@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"kr.ac.kopo.day02","c":"LottoUtil","l":"LottoUtil()","u":"%3Cinit%3E()"},{"p":"kr.ac.kopo.day02","c":"LottoUtil","l":"todayProbability()"}];updateSearchResults();

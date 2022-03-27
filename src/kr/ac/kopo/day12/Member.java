@@ -62,6 +62,13 @@ class Member {
 		return true;
 	}
 
+	@Override
+	public String toString() {
+		return "Member [name=" + name + ", phone=" + phone + "]";
+	}
+	
+	
+
 //	@Override
 //	public String toString() {
 //		return "Member [name=" + name + ", phone=" + phone + "]";
